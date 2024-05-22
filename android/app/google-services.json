@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "719271368378",
+    "project_id": "igripido",
+    "storage_bucket": "igripido.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719271368378:android:6d144aa2c3efba467f1483",
+        "android_client_info": {
+          "package_name": "com.agriaappv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXT0rijpYrYhxDfrxV_YXZgRqJgILD3cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719271368378:android:b850b7fc4c5dbb7d7f1483",
+        "android_client_info": {
+          "package_name": "com.agriapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXT0rijpYrYhxDfrxV_YXZgRqJgILD3cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
